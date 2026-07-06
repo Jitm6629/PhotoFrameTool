@@ -23,4 +23,4 @@
 git clone https://github.com/你的用户名/PhotosBorder.git
 cd PhotosBorder```
 # 安装图像处理库
-`python -m pip install pillow piexif tk`
+python -m pip install pillow piexif tk
